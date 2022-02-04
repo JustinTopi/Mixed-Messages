@@ -25,8 +25,8 @@ body{
 	text-align: center;
 }
 #banner{
-/* 	width: 1000px auto;
-	padding: 100px 350px 100px 350px; */
+/* 	width: 1000px auto; */
+	padding: 100px 350px 100px 350px; 
 	text-align: center;
 	color: #EAEAEA;
 }
